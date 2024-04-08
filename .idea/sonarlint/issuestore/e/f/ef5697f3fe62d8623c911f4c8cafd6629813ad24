@@ -1,0 +1,10 @@
+
+
+java:S6830"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬σδηϋÿÿÿÿ8ΩΊκλ1J$9aa14cef-d56c-4d1c-a4db-1d62590cf9f8
+r	java:S106"+Replace this use of System.out by a logger.(Ξ€ί°όÿÿÿÿ8—§κλ1J$5ead38ab-afd0-44cf-a81f-f9a90d542e71
+m	java:S106"+Replace this use of System.out by a logger.(Λ’8§κλ1J$fcb96cdb-df7f-4d59-a6c2-1841f93788c3
+m	java:S106"+Replace this use of System.out by a logger.(ήΏΫυ8§κλ1J$cf14cc3f-9f62-496f-8d66-e892d234f259
+l	java:S106"+Replace this use of System.out by a logger.(Μ/8™§κλ1J$5a4ddb3a-2a83-4b12-9c0d-17364936ae7c
+l	java:S106"+Replace this use of System.out by a logger.(Ι―Έi8§κλ1J$d4cd718b-0781-4bc6-8476-9956f0871032
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(΅ΈΞωÿÿÿÿ8‚¶Ίκλ1J$14be557a-ae9a-4b76-bb85-8dded5043629
